@@ -1,0 +1,2 @@
+# .Net-Library-For-Ethereum
+Bu, minimum bağımlılıkları olan hızlı bir başlangıç ​​örneğidir. Yeni ve tecrübeli .Net geliştiricilerine yardımcı olmak içindir. Bu sizi Infura'ya bağlanma ve ana ağdan (halka açık Ethereum zinciri) bir hesabın bakiyesini alma adımlarına götürecektir. Infura, ana Ethereum ağıyla tamamen senkronize edilmiş yerel veya bakımı yapılmış bir istemciye sahip olma ihtiyacını ortadan kaldıran bir dizi genel düğüm sağlar.
